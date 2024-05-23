@@ -1,7 +1,9 @@
 {
-    "name": "jorgecortesdev/cc-example-template",
+    "name": "jorgecortesdev-codigo-y-cafe/example-template",
     "description": "Esqueleto de un repositorio para los ejemplos de código de mi canal de youtube.",
-    "keywords": ["php"],
+    "keywords": [
+        "php"
+    ],
     "require": {
         "php": "^8.2"
     },
